@@ -1,0 +1,7 @@
+opencv-python
+numpy
+imutils
+matplotlib
+scipy
+dlib
+pillow
